@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/angiodysplasia-of-colon-angiodysplasia-colon---primary.py
+inputModule3:
+  class: File
+  path: python/angiodysplasia-angiodysplasia-of-colon-colon---primary.py
+inputModule4:
+  class: File
+  path: python/angiodysplasia-of-colon-angiodysplasia-colon---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
